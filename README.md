@@ -53,7 +53,7 @@ Shopify tries to improve the market base of vendors in their respective areas by
 
 -   Our solution is different in an umpteen number of ways. It's a buyer-to-vendor interaction without any third-party involvement.
 -   Our application works in a similar way where a vendor gets to update the following products on its dashboard.
--   When a user logs in he gets to see the real-time products offered by vendors, and thus he gets an articulated and pragmatic display of all the products offered by     different vendors all across the country.
+-   When a user logs in he gets to see the real-time products offered by vendors, and thus he gets an articulated and pragmatic display of all the products offered by     different vendor all across the country.
 
 ## Future Possible Enhancements
 -   Providing users the option to book a variety of products that the vendors offer.
